@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ChargerOff</string>
+    <string name="action_about">About</string>
+    <string name="title">Charging state is</string>
+
+
+</resources>
